@@ -1,0 +1,8 @@
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\bin\Debug\netcoreapp3.1\SocialChatSample.Server.exe
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\obj\Debug\netcoreapp3.1\SocialChatSample.Server.csprojAssemblyReference.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\obj\Debug\netcoreapp3.1\SocialChatSample.Server.AssemblyInfoInputs.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\obj\Debug\netcoreapp3.1\SocialChatSample.Server.AssemblyInfo.cs
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\obj\Debug\netcoreapp3.1\SocialChatSample.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\obj\Debug\netcoreapp3.1\staticwebassets\SocialChatSample.Server.StaticWebAssets.Manifest.cache
+C:\Users\Bryan Mejia Ruiz\Desktop\Universidad\Platzi\Curso .Net Blazor\SocialChat\SocialChatSample.Client\SocialChatSample.Server\obj\Debug\netcoreapp3.1\staticwebassets\SocialChatSample.Server.StaticWebAssets.xml

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialChatSample.Client", "SocialChatSample.Client\SocialChatSample.Client.csproj", "{BBF0F977-7A16-4FA5-AD3E-09C84C734A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialChatSample.Server", "SocialChatSample.Server\SocialChatSample.Server.csproj", "{86473FF5-E94E-44D1-9B7C-24D3485FE105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF0F977-7A16-4FA5-AD3E-09C84C734A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF0F977-7A16-4FA5-AD3E-09C84C734A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF0F977-7A16-4FA5-AD3E-09C84C734A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF0F977-7A16-4FA5-AD3E-09C84C734A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86473FF5-E94E-44D1-9B7C-24D3485FE105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86473FF5-E94E-44D1-9B7C-24D3485FE105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86473FF5-E94E-44D1-9B7C-24D3485FE105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86473FF5-E94E-44D1-9B7C-24D3485FE105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE0F36D-CFB0-49D6-9442-4D689B1CA4FE}
+	EndGlobalSection
+EndGlobal
